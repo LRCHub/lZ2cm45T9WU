@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "マーシャル・マキシマイザー",
+  "base_artist": "Vivid BAD SQUAD",
+  "createdAt": "2026-02-21T08:42:14.544102Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "マーシャル・マキシマイザー",
+      "artist": "WagakkiBand",
+      "has_synced": true,
+      "path": "select/01_マーシャル・マキシマイザー_WagakkiBand.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "マーシャル・マキシマイザー",
+      "artist": "和楽器バンド",
+      "has_synced": true,
+      "path": "select/02_マーシャル・マキシマイザー_和楽器バンド.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "マーシャル・マキシマイザー",
+      "artist": "和楽器バンド (Wagakki Band)",
+      "has_synced": true,
+      "path": "select/03_マーシャル・マキシマイザー_和楽器バンド_(Wagakki_Band).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "マーシャル・マキシマイザー",
+      "artist": "Kanaria",
+      "has_synced": false,
+      "path": "select/04_マーシャル・マキシマイザー_Kanaria.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "マーシャル・マキシマイザー (Marshall Maximizer)",
+      "artist": "WagakkiBand",
+      "has_synced": true,
+      "path": "select/05_マーシャル・マキシマイザー_(Marshall_Maximizer)_WagakkiBand.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "マーシャル・マキシマイザー",
+      "artist": "Wagakki Band",
+      "has_synced": true,
+      "path": "select/06_マーシャル・マキシマイザー_Wagakki_Band.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "マーシャル・マキシマイザー - STUDY WITH MIKU ver. -",
+      "artist": "柊マグネタイト",
+      "has_synced": false,
+      "path": "select/07_マーシャル・マキシマイザー_-_STUDY_WITH_MIKU_ver._-_柊マグネタイト.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "マーシャル・マキシマイザー",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/08_マーシャル・マキシマイザー_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "マーシャル・マキシマイザー",
+      "artist": "Millie Parfait",
+      "has_synced": true,
+      "path": "select/09_マーシャル・マキシマイザー_Millie_Parfait.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "マーシャル・マキシマイザー",
+      "artist": "柊マグネタイト",
+      "has_synced": true,
+      "path": "select/10_マーシャル・マキシマイザー_柊マグネタイト.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "マーシャル・マキシマイザー",
+      "artist": "Yuu.",
+      "has_synced": true,
+      "path": "select/11_マーシャル・マキシマイザー_Yuu..lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "マーシャル・マキシマイザー",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/12_マーシャル・マキシマイザー_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "マーシャル・マキシマイザー (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&巡音ルカ)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/13_マーシャル・マキシマイザー_(feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&巡音ルカ)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "マーシャル・マキシマイザー - STUDY WITH MIKU ver. -",
+      "artist": "STUDY WITH MIKU",
+      "has_synced": false,
+      "path": "select/14_マーシャル・マキシマイザー_-_STUDY_WITH_MIKU_ver._-_STUDY_WITH_MIKU.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マーシャル・マキシマイザー (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&巡音ルカ)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": false,
+      "path": "select/pl_01_マーシャル・マキシマイザー_(feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&巡音ルカ)_Vivid_BAD_SQUAD.txt"
+    }
+  ]
+}
